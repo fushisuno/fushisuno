@@ -38,7 +38,7 @@ estou me especializando em Análise e Desenvolvimento de Sistemas pelo IFPR.</p>
 <div style="display: inline_block"><br>
     <label>Banco de Dados:</label><br>
     <img alt="MySql" align="center"  src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="CSS" align="center"  src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=07405E">
+    <img alt="SQLite" align="center"  src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=07405E">
 </div>
 <div style="display: inline_block"><br>
     <label>Sistemas de Controle
@@ -53,7 +53,7 @@ de Versão:</label><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kainã-magdiel-841809261/)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_kmagdiel_/)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCflkrwgPtcTsKmqgjBcQKjXvqnFhKBbkxzHNjXDGrSCXpXhPwhdpdmjnMVLCnMrgJzPxq)
-[![Discord](https://img.shields.io/badge/kmagdiel-black?style=for-the-badge&logo=discord&logoColor=7289DA)]()
+[![Discord](https://img.shields.io/badge/kmagdiel-black?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/channels/@me)
 
 ##
 
