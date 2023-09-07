@@ -1,31 +1,11 @@
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
-
-.if{
-    color: yellow;
-}
-.al{
-    color: #FF00F6;
-}
-h3{
-    font-size: 28px;
-}
-div{
-    font-family: "Poppins", sans-serif;
-}
-</style>
-
-
-####
-<h1 align="left" style="display: flex; font-family: 'Poppins', sans-serif; letter-spacing: 4px;">
-    <img src="https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/200.webp?cid=ecf05e47dglovpuc05e41pvuirun5h3l76ik4dh3kfr5e1bb&ep=v1_stickers_search&rid=200.webp&ct=s" width="60px" align="center" style="display: flex;justify-content: center; padding: 0px 15px;"> 
-    <p style="display: flex; transform: translate(8px, 8px);">Kainã Magdiel</p>
+<h1 align="left" style="display:flex;letter-spacing: 4px;">
+  <img src="https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/200.webp?cid=ecf05e47dglovpuc05e41pvuirun5h3l76ik4dh3kfr5e1bb&ep=v1_stickers_search&rid=200.webp&ct=s" width="60px" style="transform: translate(0px, 10px); padding: 0px 20px 0px 0px;">Kainã Magdiel 
 </h1>
 
 ![Men coffe](https://i.pinimg.com/originals/1b/96/5c/1b965c3c3b5df0517bdca4e0d95beb15.gif)
 
-<p style="font-family: 'Poppins', sans-serif; width: 100%; text-align: justify;"> Salve, sou um entusiasta e amante de tecnologia ainda em desenvolvimento, buscando me especializar em <span class="al">Análise e Desenvolvimento de Sistemas</span> pelo <span class="if">IFPR</span>.</p>
+<p style="font-family: 'Poppins', sans-serif; width: 100%; text-align: justify;">Salve, sou um entusiasta e amante de tecnologia ainda em desenvolvimento, buscando me especializar em Análise e Desenvolvimento de Sistemas pelo IFPR.</p>
+
 
 <label style="font-family: 'Poppins', sans-serif;">Apaixonado por arte e tecnologia, alguns dos meus hobbies são:</label>
 
