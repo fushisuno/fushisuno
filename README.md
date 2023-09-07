@@ -21,9 +21,7 @@ estou me especializando em Análise e Desenvolvimento de Sistemas pelo IFPR.</p>
 ## 
 
 <h3>🍀 Minhas Tecnologias</h3>
-
-
- <img alt="JavaScript" width="300"  align="right"  src="https://static.wixstatic.com/media/512945_6727d0aa2fc845e8a33e14b8090621e2~mv2.png/v1/fill/w_814,h_850,al_c,q_90,enc_auto/512945_6727d0aa2fc845e8a33e14b8090621e2~mv2.png">
+ <img alt="JavaScript" width="270"  align="right"  src="https://static.wixstatic.com/media/512945_6727d0aa2fc845e8a33e14b8090621e2~mv2.png/v1/fill/w_814,h_850,al_c,q_90,enc_auto/512945_6727d0aa2fc845e8a33e14b8090621e2~mv2.png">
 <div style="display: inline_block"><br>
     <label>Linguagens de Programação:</label><br>
     <img alt="Java" align="center"  src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=red">
@@ -66,6 +64,9 @@ de Versão:</label><br>
 </div>
 
 <br>
+
+> 🍃   <span align="justify">Preocupado com uma única folha, você não verá a árvore. Preocupado com uma única árvore você não perceberá toda a floresta. Não se preocupe com um único ponto. Veja tudo em sua plenitude sem se esforçar.</span>
+
 <details align="left">
   <summary></summary> 
 
