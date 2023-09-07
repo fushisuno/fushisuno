@@ -4,7 +4,8 @@
 
 ![Men coffe](https://i.pinimg.com/originals/1b/96/5c/1b965c3c3b5df0517bdca4e0d95beb15.gif)
 
-<p style="font-family: 'Poppins', sans-serif; width: 100%; text-align: justify;">Salve, sou um entusiasta e amante de tecnologia ainda em desenvolvimento, buscando me especializar em Análise e Desenvolvimento de Sistemas pelo IFPR.</p>
+<p style="font-family: 'Poppins', sans-serif; width: 100%; text-align: justify;">Salve, sou um entusiasta e amante de tecnologia ainda aprendendo, atualmente 
+estou me especializando em Análise e Desenvolvimento de Sistemas pelo IFPR.</p>
 
 
 <label style="font-family: 'Poppins', sans-serif;">Apaixonado por arte e tecnologia, alguns dos meus hobbies são:</label>
@@ -54,13 +55,23 @@ de Versão:</label><br>
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCflkrwgPtcTsKmqgjBcQKjXvqnFhKBbkxzHNjXDGrSCXpXhPwhdpdmjnMVLCnMrgJzPxq)
 [![Discord](https://img.shields.io/badge/kmagdiel-black?style=for-the-badge&logo=discord&logoColor=7289DA)]()
 
-<br>
+##
 
+<h3> 🔎 Status</h3>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fushisuno&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushisuno&layout=compact&langs_count=20&theme=dark">
+</div>
+
+<br>
 <details align="left">
   <summary></summary> 
 
 - Badges by <a href="dev.to/envoy_/150-badges-for-github-pnk">dev.io</a><br>
+- GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
  
 <div align="right">Made with 🧙‍♂️ by <a href="https://github.com/fushisuno">KM</a>.</div>
 
 </details>
+
+## 
