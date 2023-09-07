@@ -41,7 +41,7 @@
 </div>
 <div style="display: inline_block"><br>
     <label>Sistemas de Controle
-de Versão</label><br>
+de Versão:</label><br>
     <img alt="Git" align="center"  src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=E44C30">
     <img alt="GitHub" align="center"  src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
 </div>
