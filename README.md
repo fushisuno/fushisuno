@@ -1,7 +1,3 @@
-<h1 align="left" style="display:flex;letter-spacing: 4px;">
-  <img src="https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/200.webp?cid=ecf05e47dglovpuc05e41pvuirun5h3l76ik4dh3kfr5e1bb&ep=v1_stickers_search&rid=200.webp&ct=s" width="60px" style="transform: translate(0px, 10px); padding: 0px 20px 0px 0px;">Kainã Magdiel 
-</h1>
-
 ![Men coffe](https://i.pinimg.com/originals/1b/96/5c/1b965c3c3b5df0517bdca4e0d95beb15.gif)
 
 <p style="font-family: 'Poppins', sans-serif; width: 100%; text-align: justify;">Salve, sou um entusiasta e amante de tecnologia ainda aprendendo, atualmente 
