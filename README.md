@@ -1,49 +1,17 @@
 ![Banner](./Banner.png)
 
-<p style="font-family: 'Poppins', sans-serif; width: 100%; text-align: justify;">Salve, sou um entusiasta e amante de tecnologia ainda aprendendo, atualmente 
-estou me especializando em Análise e Desenvolvimento de Sistemas pelo IFPR.</p>
+<h1 align="center">👨‍💻 Salve, eu sou o Kainã</h1>
+<h4 align="left">💻 Eu trabalho no desenvolvimento back-end e APIs quando estou focado, mas curto explorar front-end e design de interfaces nos momentos mais descontraídos. Enquanto sigo minha graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, estou sempre aprimorando minhas habilidades em Node.js, frameworks como Express e bancos de dados como MongoDB e SQL. Além disso, mergulho no vasto campo de TI para ampliar meu conhecimento e me preparar para novos desafios na área de tecnologia.</h4>
 
+<br>
 
-<label style="font-family: 'Poppins', sans-serif;">Apaixonado por arte e tecnologia, alguns dos meus hobbies são:</label>
-
-<ul style="font-family: 'Poppins', sans-serif;">
-    <li>Jogar</li>
-    <li>Assistir</li>
-    <li>Programar</li>
-    <li>Tocar instrumentos</li>
-    <li>Desenhar</li>
-</ul>
-
-## 
-
-<h3>🍀 Minhas Tecnologias</h3>
- <img alt="JavaScript" width="270"  align="right"  src="https://static.wixstatic.com/media/512945_6727d0aa2fc845e8a33e14b8090621e2~mv2.png/v1/fill/w_814,h_850,al_c,q_90,enc_auto/512945_6727d0aa2fc845e8a33e14b8090621e2~mv2.png">
-<div style="display: inline_block"><br>
-    <label>Linguagens de Programação:</label><br>
-    <img alt="Java" align="center"  src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=red">
-    <img alt="Python" align="center"  src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB">
-    <img alt="JavaScript" align="center"  src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</div>
-<div style="display: inline_block"><br>
-    <label>Web:</label><br>
-    <img alt="HTML" align="center"  src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26">
-    <img alt="CSS" align="center"  src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6">
-    <img alt="Bootstrap" align="center"  src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=563D7C">
-    <img alt="Flask" align="center"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</div>
-<div style="display: inline_block"><br>
-    <label>Banco de Dados:</label><br>
-    <img alt="MySql" align="center"  src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white">
-    <img alt="SQLite" align="center"  src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=07405E">
-</div>
-<div style="display: inline_block"><br>
-    <label>Sistemas de Controle
-de Versão:</label><br>
-    <img alt="Git" align="center"  src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=E44C30">
-    <img alt="GitHub" align="center"  src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
-## 
+<img align="right" alt="coding-gif" width="400" src="./programer2.gif">
+<h3 align="left">🧏‍♂️ Sobre Mim </h3>
+<h4 align="left">🚀 Aprimorando minhas habilidades em Node.js, TypeScript e APIs.</br>
+💻 Experiência com Express, Flask, Django, MySQL, MongoDB e Firebase.</br>
+📩 Pergunte-me sobre back-end, Node.js, Python ou integração de soluções de TI.</br>
+🧠 Interesses: automação, sistemas escaláveis e novas tecnologias.</br>
+🎯 Foco em código limpo, eficiente e soluções que fazem a diferença.</h4>
 <h3> 💬 Conecte-se Comigo</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kainã-magdiel-841809261/)
@@ -51,12 +19,50 @@ de Versão:</label><br>
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCflkrwgPtcTsKmqgjBcQKjXvqnFhKBbkxzHNjXDGrSCXpXhPwhdpdmjnMVLCnMrgJzPxq)
 [![Discord](https://img.shields.io/badge/kmagdiel-black?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/channels/@me)
 
-##
+<br><br>
+
+<h3 align="center">🔆 Minha Formação</h3>
+<div align="center" style="display: flex; gap: 10px;">
+    <img src="./formation1.png" alt="IFPR Quedas" width="350" style="border-radius: 10px;">
+    <img src="./formation2.png" alt="IFPR Cascavel" width="355" style="border-radius: 10px;">
+</div>
+
+<h3 align="center">📚 Linguagens & Ferramentas</h3>
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=py,java,javascript,ts,c,cpp,cs,arduino,kotlin"/><br>
+    <img src="https://skillicons.dev/icons?i=html,pug,css,tailwind,bootstrap,angular,vue,react,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,express,deno,ember,django,flask,firebase,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,androidstudio,eclipse,netlify,notion,pycharm,sublime" /><br>
+    <img src="https://skillicons.dev/icons?i=vercel,vite,vscode,visualstudio,vscodium,stackoverflow,replit,git,github" /><br>
+</div>
+<br/>
+
+<!-- top repo and teck stack-->
+<div align="center">
+  <h3>⭐️ Top Repositorios</h3>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/fushisuno/DoggieHeart">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=fushisuno&repo=DoggieHeart&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+    <a href="https://github.com/fushisuno/bootcamp23">
+        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=fushisuno&repo=bootcamp23&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+    </a>
+</div>
+
+
+<h3 align="center">⚡ Github Status</h3>
+<br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fushisuno&show_icons=true&theme=default&rank_icon=github&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushisuno&layout=compact&hide_border=false&langs_count=20&theme=default">
+</div>
+<br/><br/>
+
 
 <h3> 🔎 Status</h3>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fushisuno&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushisuno&layout=compact&langs_count=20&theme=dark">
+    <img width="380" src="https://github-readme-stats.vercel.app/api?username=Fushisuno&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushisuno&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br>
