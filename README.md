@@ -1,4 +1,4 @@
-![Men coffe](https://i.pinimg.com/originals/1b/96/5c/1b965c3c3b5df0517bdca4e0d95beb15.gif)
+![Banner](./Banner.png)
 
 <p style="font-family: 'Poppins', sans-serif; width: 100%; text-align: justify;">Salve, sou um entusiasta e amante de tecnologia ainda aprendendo, atualmente 
 estou me especializando em Análise e Desenvolvimento de Sistemas pelo IFPR.</p>
