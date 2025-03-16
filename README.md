@@ -6,7 +6,7 @@
 <br>
 
 <img align="right" alt="coding-gif" width="400" src="./programer2.gif">
-<h3 align="left">🧏‍♂️ Sobre Mim </h3>
+<h3 align="left">🙋‍♂️ Sobre Mim </h3>
 <h4 align="left">🚀 Aprimorando minhas habilidades em Node.js, TypeScript e APIs.</br>
 💻 Experiência com Express, Flask, Django, MySQL, MongoDB e Firebase.</br>
 📩 Pergunte-me sobre back-end, Node.js, Python ou integração de soluções de TI.</br>
@@ -54,29 +54,16 @@
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fushisuno&show_icons=true&theme=default&rank_icon=github&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushisuno&layout=compact&hide_border=false&langs_count=20&theme=default">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushisuno&layout=compact&include_all_commits=false&hide_border=false&count_private=false=false&theme=default">
 </div>
 <br/><br/>
 
 
-<h3> 🔎 Status</h3>
-<div>
-    <img width="380" src="https://github-readme-stats.vercel.app/api?username=Fushisuno&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
-    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushisuno&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</div>
-
-<br>
-
 > 🍃   <span align="justify">Preocupado com uma única folha, você não verá a árvore. Preocupado com uma única árvore você não perceberá toda a floresta. Não se preocupe com um único ponto. Veja tudo em sua plenitude sem se esforçar.</span>
 
-<details align="left">
-  <summary></summary> 
+<img src="https://i.pinimg.com/originals/09/01/43/0901434384290893f3f67b1065855d60.gif" width="100%" heigth="80%">
 
-- Badges by <a href="dev.to/envoy_/150-badges-for-github-pnk">dev.io</a><br>
-- GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
- 
-<div align="right">Made with 🧙‍♂️ by <a href="https://github.com/fushisuno">KM</a>.</div>
-
-</details>
+<br>
+<div align="right">Made with 🧙‍♂️ by <a href="https://github.com/fushisuno">Fushisuno</a>.</div>
 
 ## 
