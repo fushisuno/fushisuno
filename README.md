@@ -43,9 +43,9 @@
   <h3>⭐️ Top Repositorios</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/fushisuno/DoggieHeart">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=fushisuno&repo=DoggieHeart&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+        <img width=380 height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fushisuno&repo=DoggieHeart&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
     <a href="https://github.com/fushisuno/bootcamp23">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=fushisuno&repo=bootcamp23&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
+        <img width=380 height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fushisuno&repo=bootcamp23&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
     </a>
 </div>
 
