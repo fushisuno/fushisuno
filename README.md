@@ -1,12 +1,12 @@
 ![Banner](./Banner.png)
 
-<h1 align="center">👨‍💻 Salve, eu sou o Kainã</h1>
+<h1 align="center">🌌 Salve, eu sou o Kainã</h1>
 <h4 align="left">💻 Eu trabalho no desenvolvimento back-end e APIs quando estou focado, mas curto explorar front-end e design de interfaces nos momentos mais descontraídos. Enquanto sigo minha graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, estou sempre aprimorando minhas habilidades em Node.js, frameworks como Express e bancos de dados como MongoDB e SQL. Além disso, mergulho no vasto campo de TI para ampliar meu conhecimento e me preparar para novos desafios na área de tecnologia.</h4>
 
 <br>
 
 <img align="right" alt="coding-gif" width="400" src="./programer2.gif">
-<h3 align="left">🙋‍♂️ Sobre Mim </h3>
+<h3 align="left">✨ Sobre Mim </h3>
 <h4 align="left">🚀 Aprimorando minhas habilidades em Node.js, TypeScript e APIs.</br>
 💻 Experiência com Express, Flask, Django, MySQL, MongoDB e Firebase.</br>
 📩 Pergunte-me sobre back-end, Node.js, Python ou integração de soluções de TI.</br>
