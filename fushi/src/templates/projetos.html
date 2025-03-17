@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Projetos de desenvolvimento e tecnologia - Portfólio de Kainã">
+    <title>Projetos | Meu Portfólio</title>
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Meu Portfólio</div>
+            <ul class="nav-links">
+                <li><a href="../../../index.html">Sobre</a></li>
+                <li><a href="#">Projetos</a></li>
+                <li><a href="./habilidades.html">Habilidades</a></li>
+                <li><a href="./arte-design.html">Artes</a></li>
+                <li><a href="./contato.html">Contato</a></li>
+            </ul>
+            <div class="burger">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+                <div class="line4"></div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero" style="padding: 160px 0 60px;">
+            <div class="container">
+                <h1 style="text-align: center; font-size: 2.5rem;">Meus Projetos</h1>
+                <p style="text-align: center; max-width: 800px; margin: 20px auto;">Confira as soluções tecnológicas que desenvolvi, estou trabalhando atualmente e planejo criar no futuro. Cada projeto representa uma jornada de aprendizado e inovação.</p>
+            </div>
+        </section>
+        
+        <section class="projects-section">
+            <div class="container">
+                <div class="projects-filter">
+                    <button class="filter-btn active" data-filter="all">Todos</button>
+                    <button class="filter-btn" data-filter="completed">Concluídos</button>
+                    <button class="filter-btn" data-filter="ongoing">Em Andamento</button>
+                    <button class="filter-btn" data-filter="future">Futuros</button>
+                </div>
+                
+                <div class="projects-container">
+                    <!-- Projetos Concluídos -->
+                    <div class="project-card" data-category="completed">
+                        <div class="project-image">
+                            <svg viewBox="0 0 400 250" class="project-svg">
+                                <rect width="400" height="250" fill="#f5f5f5"/>
+                                <rect x="50" y="50" width="300" height="150" rx="10" fill="#4a90e2"/>
+                                <circle cx="100" cy="100" r="20" fill="#ffffff"/>
+                                <rect x="150" y="90" width="150" height="20" rx="5" fill="#ffffff"/>
+                                <rect x="150" y="130" width="100" height="20" rx="5" fill="#ffffff"/>
+                                <path d="M320,150 C320,130 300,130 300,150" stroke="#ffffff" stroke-width="3" fill="none"/>
+                            </svg>
+                        </div>
+                        <div class="project-info">
+                            <div class="project-header">
+                                <h3>Sistema de Gestão de Saúde Animal</h3>
+                                <span class="project-badge completed">Concluído</span>
+                            </div>
+                            <p class="project-description">Plataforma para clínicas veterinárias gerenciarem prontuários, históricos médicos, vacinas e consultas de animais de estimação. O sistema inclui alertas automáticos para vacinação e medicamentos.</p>
+                            <div class="project-tech">
+                                <span class="tech-tag">Node.js</span>
+                                <span class="tech-tag">Express</span>
+                                <span class="tech-tag">MongoDB</span>
+                                <span class="tech-tag">React</span>
+                                <span class="tech-tag">JWT</span>
+                            </div>
+                            <div class="project-links">
+                                <a href="https://github.com/seuusuario/saude-animal" target="_blank" class="project-link">
+                                    <i class="fab fa-github"></i> Código Fonte
+                                </a>
+                                <a href="#" target="_blank" class="project-link">
+                                    <i class="fas fa-external-link-alt"></i> Demo
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-category="completed">
+                        <div class="project-image">
+                            <svg viewBox="0 0 400 250" class="project-svg">
+                                <rect width="400" height="250" fill="#f5f5f5"/>
+                                <rect x="50" y="40" width="300" height="170" rx="10" fill="#2c3e50"/>
+                                <circle cx="200" cy="80" r="25" fill="#e74c3c"/>
+                                <rect x="120" y="120" width="160" height="15" rx="3" fill="#ecf0f1"/>
+                                <rect x="140" y="145" width="120" height="15" rx="3" fill="#ecf0f1"/>
+                                <rect x="160" y="170" width="80" height="20" rx="5" fill="#3498db"/>
+                            </svg>
+                        </div>
+                        <div class="project-info">
+                            <div class="project-header">
+                                <h3>API de Gerenciamento de Tarefas</h3>
+                                <span class="project-badge completed">Concluído</span>
+                            </div>
+                            <p class="project-description">API RESTful para gerenciamento de tarefas com categorização, prioridades, prazos e notificações. Inclui autenticação JWT, validação de dados e documentação Swagger.</p>
+                            <div class="project-tech">
+                                <span class="tech-tag">Node.js</span>
+                                <span class="tech-tag">Express</span>
+                                <span class="tech-tag">MongoDB</span>
+                                <span class="tech-tag">JWT</span>
+                                <span class="tech-tag">Swagger</span>
+                            </div>
+                            <div class="project-links">
+                                <a href="https://github.com/seuusuario/api-tarefas" target="_blank" class="project-link">
+                                    <i class="fab fa-github"></i> Código Fonte
+                                </a>
+                                <a href="#" target="_blank" class="project-link">
+                                    <i class="fas fa-external-link-alt"></i> Demo
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Projetos em Andamento -->
+                    <div class="project-card" data-category="ongoing">
+                        <div class="project-image">
+                            <svg viewBox="0 0 400 250" class="project-svg">
+                                <rect width="400" height="250" fill="#f5f5f5"/>
+                                <rect x="40" y="40" width="320" height="170" rx="5" fill="#f8a41d"/>
+                                <rect x="70" y="70" width="260" height="20" rx="3" fill="#ffffff"/>
+                                <rect x="70" y="110" width="180" height="10" rx="2" fill="#ffffff"/>
+                                <rect x="70" y="130" width="220" height="10" rx="2" fill="#ffffff"/>
+                                <rect x="70" y="150" width="200" height="10" rx="2" fill="#ffffff"/>
+                                <rect x="70" y="170" width="120" height="10" rx="2" fill="#ffffff"/>
+                            </svg>
+                        </div>
+                        <div class="project-info">
+                            <div class="project-header">
+                                <h3>Blog de Tecnologia</h3>
+                                <span class="project-badge ongoing">Em Andamento</span>
+                            </div>
+                            <p class="project-description">Plataforma de blog moderna com sistema de gerenciamento de conteúdo, autenticação de usuários, comentários e sistema de newsletters. Design responsivo com foco em experiência do usuário.</p>
+                            <div class="project-tech">
+                                <span class="tech-tag">Next.js</span>
+                                <span class="tech-tag">Firebase</span>
+                                <span class="tech-tag">React</span>
+                                <span class="tech-tag">Tailwind CSS</span>
+                            </div>
+                            <div class="project-links">
+                                <a href="https://github.com/seuusuario/tech-blog" target="_blank" class="project-link">
+                                    <i class="fab fa-github"></i> Código Fonte
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-category="ongoing">
+                        <div class="project-image">
+                            <svg viewBox="0 0 400 250" class="project-svg">
+                                <rect width="400" height="250" fill="#f5f5f5"/>
+                                <rect x="50" y="80" width="120" height="90" rx="5" fill="#3498db"/>
+                                <rect x="190" y="80" width="160" height="40" rx="5" fill="#3498db"/>
+                                <rect x="190" y="130" width="160" height="40" rx="5" fill="#3498db"/>
+                                <circle cx="110" cy="125" r="30" fill="#ffffff" opacity="0.7"/>
+                                <line x1="100" y1="115" x2="120" y2="135" stroke="#ffffff" stroke-width="4"/>
+                                <line x1="120" y1="115" x2="100" y2="135" stroke="#ffffff" stroke-width="4"/>
+                            </svg>
+                        </div>
+                        <div class="project-info">
+                            <div class="project-header">
+                                <h3>Aplicativo de Monitoramento Ambiental</h3>
+                                <span class="project-badge ongoing">Em Andamento</span>
+                            </div>
+                            <p class="project-description">Aplicativo para monitoramento de dados ambientais usando sensores IoT, com dashboard interativo para visualização de métricas e tendências em tempo real.</p>
+                            <div class="project-tech">
+                                <span class="tech-tag">Python</span>
+                                <span class="tech-tag">Django</span>
+                                <span class="tech-tag">React Native</span>
+                                <span class="tech-tag">IoT</span>
+                                <span class="tech-tag">D3.js</span>
+                            </div>
+                            <div class="project-links">
+                                <a href="https://github.com/seuusuario/env-monitor" target="_blank" class="project-link">
+                                    <i class="fab fa-github"></i> Código Fonte
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Projetos Futuros -->
+                    <div class="project-card" data-category="future">
+                        <div class="project-image">
+                            <svg viewBox="0 0 400 250" class="project-svg">
+                                <rect width="400" height="250" fill="#f5f5f5"/>
+                                <rect x="120" y="60" width="160" height="130" rx="10" fill="#9b59b6"/>
+                                <rect x="150" y="100" width="100" height="15" rx="3" fill="#ffffff"/>
+                                <rect x="150" y="125" width="100" height="15" rx="3" fill="#ffffff"/>
+                                <path d="M320,150 L300,130 M320,150 L300,170" stroke="#9b59b6" stroke-width="4"/>
+                                <path d="M80,150 L100,130 M80,150 L100,170" stroke="#9b59b6" stroke-width="4"/>
+                            </svg>
+                        </div>
+                        <div class="project-info">
+                            <div class="project-header">
+                                <h3>Plataforma de Aprendizado de Programação</h3>
+                                <span class="project-badge future">Futuro</span>
+                            </div>
+                            <p class="project-description">Plataforma interativa para ensino de programação com elementos de gamificação, desafios progressivos, competições entre usuários e sistema de recompensas.</p>
+                            <div class="project-tech">
+                                <span class="tech-tag">React</span>
+                                <span class="tech-tag">Node.js</span>
+                                <span class="tech-tag">GraphQL</span>
+                                <span class="tech-tag">MongoDB</span>
+                            </div>
+                            <div class="feedback-form">
+                                <button class="feedback-btn" data-project="learning-platform">Deixar Feedback</button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-card" data-category="future">
+                        <div class="project-image">
+                            <svg viewBox="0 0 400 250" class="project-svg">
+                                <rect width="400" height="250" fill="#f5f5f5"/>
+                                <circle cx="200" cy="125" r="60" fill="#f39c12"/>
+                                <circle cx="200" cy="125" r="40" fill="#f5f5f5"/>
+                                <circle cx="200" cy="125" r="20" fill="#f39c12"/>
+                                <line x1="140" y1="125" x2="120" y2="125" stroke="#f39c12" stroke-width="4"/>
+                                <line x1="260" y1="125" x2="280" y2="125" stroke="#f39c12" stroke-width="4"/>
+                                <line x1="200" y1="65" x2="200" y2="45" stroke="#f39c12" stroke-width="4"/>
+                                <line x1="200" y1="185" x2="200" y2="205" stroke="#f39c12" stroke-width="4"/>
+                            </svg>
+                        </div>
+                        <div class="project-info">
+                            <div class="project-header">
+                                <h3>Assistente Virtual para Produtividade</h3>
+                                <span class="project-badge future">Futuro</span>
+                            </div>
+                            <p class="project-description">Assistente virtual baseado em IA para gerenciamento de tarefas, organização de projetos e otimização de fluxos de trabalho, com integração a diversas ferramentas e apps.</p>
+                            <div class="project-tech">
+                                <span class="tech-tag">Python</span>
+                                <span class="tech-tag">TensorFlow</span>
+                                <span class="tech-tag">NLP</span>
+                                <span class="tech-tag">React</span>
+                                <span class="tech-tag">Node.js</span>
+                            </div>
+                            <div class="feedback-form">
+                                <button class="feedback-btn" data-project="virtual-assistant">Deixar Feedback</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <div id="feedback-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2>Deixe seu Feedback</h2>
+                <p id="modal-project-name"></p>
+                <form id="feedback-form">
+                    <div class="form-group">
+                        <label for="name">Nome</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="feedback">Seu Feedback</label>
+                        <textarea id="feedback" name="feedback" rows="5" required></textarea>
+                    </div>
+                    <button type="submit" class="submit-feedback">Enviar Feedback</button>
+                </form>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">Meu Portfólio</div>
+                <div class="footer-social">
+                    <a href="https://github.com/fushisuno" class="social-icon"><i class="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/kmagdiel" class="social-icon"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/_kmagdiel_/" class="social-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="kainamagdiel1920@gmail.com" class="social-icon"><i class="fas fa-envelope"></i></a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2023 Seu Nome. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../static/js/script.js"></script>
+    <script src="../static/js/projects.js"></script>
+</body>
+</html>
