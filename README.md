@@ -30,11 +30,11 @@
 <h3 align="center">📚 Linguagens & Ferramentas</h3>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,javascript,ts,c,cpp,cs,arduino,kotlin"/><br>
-    <img src="https://skillicons.dev/icons?i=html,pug,css,tailwind,bootstrap,angular,vue,react,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,express,deno,ember,django,flask,firebase,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,androidstudio,eclipse,netlify,notion,pycharm,sublime" /><br>
-    <img src="https://skillicons.dev/icons?i=vercel,vite,vscode,visualstudio,vscodium,stackoverflow,replit,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=py,java,javascript,ts,arduino"/><br>
+    <img src="https://skillicons.dev/icons?i=html,pug,css,tailwind,bootstrap,react" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,express,django,flask,firebase,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,androidstudio,eclipse,notion,pycharm,sublime" /><br>
+    <img src="https://skillicons.dev/icons?i=vercel,vite,vscode,visualstudio,vscodium,stackoverflow,replit,git,github,netlify" /><br>
 </div>
 <br/>
 
