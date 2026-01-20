@@ -28,7 +28,7 @@
 
 <h3 align="center">📚 Linguagens & Ferramentas</h3>
 <br>
-<div align="start">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=py,java,javascript,ts,arduino,html,css,tailwind,bootstrap,react,npm,nodejs,express" /><br>
     <img src="https://skillicons.dev/icons?i=django,flask,firebase,sqlite,mongodb,mysql,postgres,androidstudio,eclipse,notion,pycharm,sublime,docker" /><br>
     <img src="https://skillicons.dev/icons?i=vercel,vite,vscode,visualstudio,vscodium,stackoverflow,replit,git,github,netlify" /><br>
@@ -81,4 +81,5 @@ Organização que reúne **projetos desenvolvidos durante a graduação em Anál
 <div align="right">Made with 🧙‍♂️ by <a href="https://github.com/fushisuno">Fushisuno</a>.</div>
 
 ## 
+
 
