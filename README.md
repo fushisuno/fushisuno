@@ -1,62 +1,76 @@
+
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi , I'm</h2>
+
 ![Banner](./fushi/img_readme/Banner.png)
 
-<h1 align="center">🌌 Salve, eu sou o Kainã</h1>
-<h4 align="left">💻 Eu trabalho no desenvolvimento back-end e APIs quando estou focado, mas curto explorar front-end e design de interfaces nos momentos mais descontraídos. Enquanto sigo minha graduação em Tecnologia em Análise e Desenvolvimento de Sistemas, estou sempre aprimorando minhas habilidades em Node.js, frameworks como Express e bancos de dados como MongoDB e SQL. Além disso, mergulho no vasto campo de TI para ampliar meu conhecimento e me preparar para novos desafios na área de tecnologia.</h4>
-
-<br>
-
-<img align="right" alt="coding-gif" width="400" src="./fushi/img_readme/programer2.gif">
-<h3 align="left">✨ Sobre Mim </h3>
-<h4 align="left">🚀 Aprimorando minhas habilidades em Node.js, TypeScript e APIs.</br>
-💻 Experiência com Express, Flask, Django, MySQL, MongoDB e Firebase.</br>
-📩 Pergunte-me sobre back-end, Node.js, Python ou integração de soluções de TI.</br>
-🧠 Interesses: automação, sistemas escaláveis e novas tecnologias.</br>
-🎯 Foco em código limpo, eficiente e soluções que fazem a diferença.</h4>
-<h3> 💬 Conecte-se Comigo</h3>
+- 🚀 Profissional de TI, formado em Análise e Desenvolvimento de Sistemas.
+- 🎯 Meu foco é criar sistemas, tirar ideias do papel e atuar entre desenvolvimento, QA e testes, evoluindo continuamente como profissional.
+- 🧠 Curto entender o sistema como um todo: como funciona, onde pode falhar e como melhorar.
+- 💻 Tenho interesse em automação, testes, segurança (em aprendizado) e evolução constante.
+- 🎮 Fora da TI, curto aprender coisas novas, encarar desafios e explorar ideias criativas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kainã-magdiel-841809261/)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_kmagdiel_/)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsvCflkrwgPtcTsKmqgjBcQKjXvqnFhKBbkxzHNjXDGrSCXpXhPwhdpdmjnMVLCnMrgJzPxq)
 [![Discord](https://img.shields.io/badge/kmagdiel-black?style=for-the-badge&logo=discord&logoColor=7289DA)](https://discord.com/channels/@me)
 
-<br><br>
+<div align="center">
 
-<h3 align="center">🔆 Minha Formação</h3>
-<div align="center" style="display: flex; gap: 10px;">
-    <img src="./fushi/img_readme/formation1.png" alt="IFPR Quedas" width="350" style="border-radius: 10px;">
-    <img src="./fushi/img_readme/formation2.png" alt="IFPR Cascavel" width="355" style="border-radius: 10px;">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fushisuno&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fushisuno&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fushisuno&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fushisuno&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fushisuno&theme=github_dark)
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=androidwithrossyn&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
+
 </div>
 
 <h3 align="center">📚 Linguagens & Ferramentas</h3>
 <br>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,java,javascript,ts,arduino"/><br>
-    <img src="https://skillicons.dev/icons?i=html,pug,css,tailwind,bootstrap,react" /><br>
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,express,django,flask,firebase,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,androidstudio,eclipse,notion,pycharm,sublime" /><br>
+<div align="start">
+    <img src="https://skillicons.dev/icons?i=py,java,javascript,ts,arduino,html,css,tailwind,bootstrap,react,npm,nodejs,express" /><br>
+    <img src="https://skillicons.dev/icons?i=django,flask,firebase,sqlite,mongodb,mysql,postgres,androidstudio,eclipse,notion,pycharm,sublime,docker" /><br>
     <img src="https://skillicons.dev/icons?i=vercel,vite,vscode,visualstudio,vscodium,stackoverflow,replit,git,github,netlify" /><br>
 </div>
 <br/>
 
+
+
+
 <!-- top repo and teck stack-->
 <div align="center">
   <h3>⭐️ Top Repositorios</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/fushisuno/DoggieHeart">
-        <img width=380 height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fushisuno&repo=DoggieHeart&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
-    <a href="https://github.com/fushisuno/bootcamp23">
-        <img width=380 height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=fushisuno&repo=bootcamp23&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
-    </a>
+<div>
+
+<div align="left">
+
+**📦 DoggieHeart**  
+Sistema de **Gestão de Saúde Animal**, uma plataforma online para organizar vacinas, consultas, exames e medicamentos de pets. Conta com prontuário eletrônico, alertas personalizados e agendamento de consultas, facilitando o acompanhamento da saúde animal e trazendo mais tranquilidade para os tutores.   
+🔗 https://github.com/ifpr-fushisuno/ifpr-pi
+
+**🌱 Cultive**  
+Projeto voltado à **gestão de hortas comunitárias**, com foco em organização, colaboração e apoio à agricultura urbana por meio da tecnologia.  
+🔗 https://github.com/Horta-Coop/cultive
+
 </div>
 
-
-<h3 align="center">⚡ Github Status</h3>
 <br>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fushisuno&show_icons=true&theme=default&rank_icon=github&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fushisuno&layout=compact&include_all_commits=false&hide_border=false&count_private=false=false&theme=default">
+  <h3>🏢 Organizações</h3>
 </div>
-<br/><br/>
+
+<div align="left">
+
+**🎓 IFPR-Fushisuno**  
+Organização que reúne **projetos desenvolvidos durante a graduação em Análise e Desenvolvimento de Sistemas**, incluindo trabalhos acadêmicos, projetos integradores e experimentos práticos com diferentes tecnologias.  
+🔗 https://github.com/ifpr-fushisuno
+
+</div>
+
+
+#
 
 
 > 🍃   <span align="justify">Preocupado com uma única folha, você não verá a árvore. Preocupado com uma única árvore você não perceberá toda a floresta. Não se preocupe com um único ponto. Veja tudo em sua plenitude sem se esforçar.</span>
@@ -67,3 +81,4 @@
 <div align="right">Made with 🧙‍♂️ by <a href="https://github.com/fushisuno">Fushisuno</a>.</div>
 
 ## 
+
