@@ -23,6 +23,10 @@ RF-09: atualização automática do catálogo com snapshot público sanitizado, 
 RF-11: respeitar exclusões explícitas do mantenedor em todas as superfícies (catálogo, destaques, métricas, competências, timeline e README). A lista nominal de exclusões privadas não deve ser versionada publicamente; utilizar configuração local/CI não pública e reprovar coleta quando a configuração obrigatória faltar. Exclusões prevalecem sobre inclusão automática, inclusive após mudança de visibilidade.
 RF-10: preservar rotas públicas existentes ou redirecioná-las, mantendo contatos profissionais somente quando confirmados; não ampliar divulgação de informações pessoais.
 
+## Restrições técnicas e editoriais
+- Implementar o portfólio em React + TypeScript + Vite, sem Next.js, SSR ou dependências específicas de Next.js.
+- Por preferência explícita do mantenedor, Next.js não será exibido como competência ou tecnologia em destaque, inclusive nos indicadores e filtros de tecnologias. Repositórios históricos que utilizam Next.js não precisam ser excluídos por esse motivo; preservar links e não atribuir stack incorreta. Não alterar o código desses repositórios.
+
 ## Critérios de aceite
 AC1: adicionar repositório público elegível não exige escrever nova página/card; próxima coleta o descobre e apresenta revisão.
 AC2: repositório privado, token, captura com dado real ou conteúdo não autorizado não aparece no JSON, HTML, JS, logs ou assets públicos; teste negativo obrigatório.
@@ -31,6 +35,7 @@ AC4: cada status e tecnologia pública é rastreável à evidência; desconhecid
 AC5: navegar, buscar e acessar detalhes com teclado e sem WebGL/GSAP; reduced motion respeitado; não há scroll forçado, conteúdo oculto ou overflow em 320–1440 px.
 AC6: build estático funcional com URLs de GitHub Pages; links verificados; medir Lighthouse/Core Web Vitals em ambiente real antes de ratificação.
 AC8: uma exclusão é aplicada antes de ler conteúdo, gerar contagens e publicar; repositório anteriormente público removido ou privatizado deve ser retirado dos dados atuais sem preservar conteúdo revogado como fallback; histórico Git público não pode ser tratado como revogável.
+AC9: o build do portfólio não depende de Next.js; a apresentação de competências não promove essa tecnologia.
 AC7: aprovar conteúdo, licenças, privacidade e acessibilidade antes de promoção; deploy não incluído na autorização de planejamento.
 
 ## Exclusões
