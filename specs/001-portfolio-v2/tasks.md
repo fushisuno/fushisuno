@@ -7,7 +7,7 @@ Status: plano proposto. Não considerar item implementado por estar documentado.
 - [x] T004 Atualizar spec com decisões de stack e modo estático.
 - [x] T005 Formalizar arquitetura e riscos (plan.md).
 - [x] T006 Definir modelo e contrato sem banco (data-model.md).
-- [ ] T007 Prototipar direção visual de forma navegável, validar reduced motion e layout; não publicar.
+- [x] T007 Protótipo navegável descartável criado e verificações preliminares de layout/reduced motion executadas; evidências em docs/prototipo/README.md. Aceite visual humano e ratificação na T009.
 - [x] T008 Decompor trabalho, dependências e aceite (este documento).
 - [ ] T009 Revisar consistência, fontes legais/acervo, proteção de branches, PR e ratificação documental; sem contornar gates.
 ## F2 — fundação (depende T009)
