@@ -1,5 +1,5 @@
 # Direção visual — Fushisuno
-Status: proposta editorial; protótipo navegável ainda não executado.
+Status: proposta editorial; protótipo navegável disponível em [docs/prototipo/index.html](prototipo/index.html), com evidências em [README](prototipo/README.md). Aceite visual e revisão pendentes.
 ## Objetivo
 Apresentar projetos como produtos e estudos de caso, com evidência de competência e contribuição; não copiar Apple ou usar seus ativos.
 ## Navegação
