@@ -24,7 +24,7 @@ Narrativa editorial, hero de impacto, capítulos de projetos selecionados, catá
 - Inventário completo contém fontes de acesso restrito; não deve ser armazenado no repositório público. Apenas projeção pública sanitizada será versionada.
 
 ## Estado F1
-Plan, data-model, tasks, ADR 001 e planejamento de frontend registrados no PR documental. T005/T006/T008 concluídas como artefatos de planejamento. T007 (protótipo navegável) e T009 (revisão, proteção de branches e ratificação) permanecem abertas. A consulta de branches retornou main/develop desprotegidas. PR #1 em rascunho, sem integração.
+Plan, data-model, tasks, ADR 001 e planejamento de frontend registrados no PR documental. T005/T006/T008 concluídas como artefatos de planejamento. T007 concluída como protótipo descartável com testes preliminares (docs/prototipo/README.md). T009 (revisão, proteção de branches e ratificação) permanece aberta. A consulta de branches retornou main/develop desprotegidas. PR #1 em rascunho, sem integração.
 
 ## Próxima etapa
-Executar T007 e T009 antes de iniciar F2. Não contornar CI ou promover a main. Conferir exclusões privadas em configuração segura, aprovação de conteúdo e ativos antes da publicação.
+Executar T009 e obter aceite do protótipo antes de iniciar F2. Não contornar CI ou promover a main. Conferir exclusões privadas em configuração segura, aprovação de conteúdo e ativos antes da publicação.
