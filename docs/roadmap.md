@@ -11,7 +11,7 @@ Status: proposta | 2026-11-25. Nenhuma fase de implementação aprovada por este
 | F5 | Sincronização revisável, CI, auditoria, homologação e candidato de release | Checks aprovados, SHA, autorização e smoke |
 | F6 | Release e operação com atualização controlada | Deploy explicitamente autorizado, rollback e documentação |
 
-## Arquitetura candidata (validar em F1)
+## Arquitetura definida para a versão inicial (detalhes sujeitos à revisão)
 React + TypeScript + Vite (sem Next.js); Tailwind CSS e tokens próprios; GSAP/ScrollTrigger e Three.js/React Three Fiber em chunks lazy. Backend obrigatório NestJS + TypeScript sobre Node.js, com módulos GitHub, catálogo, curadoria, validação e snapshot JSON validado com Zod. Executar serviços NestJS via CLI/batch em CI, com cache, rate limit e fontes públicas GitHub REST; modo exclusivamente CLI/batch na versão inicial, sem API HTTP em execução contínua; eventual API REST em runtime separado fica para evolução futura mediante aprovação. GitHub Pages publica somente frontend e snapshot, não o servidor. Vitest no frontend, testes unitários/de integração NestJS e Playwright E2E. Sem Supabase, banco de dados ou hospedagem contínua na primeira versão. Avaliar licenças, versões, custos, compatibilidade e desempenho antes de instalar. CI propõe atualizações de snapshot para revisão em develop, nunca usa segredo no site.
 
 ## Plano de UI
@@ -23,5 +23,8 @@ Narrativa editorial, hero de impacto, capítulos de projetos selecionados, catá
 - Myhouse possui release Android pública consultada. Confirmar atualidade e uso de ativos no planejamento.
 - Inventário completo contém fontes de acesso restrito; não deve ser armazenado no repositório público. Apenas projeção pública sanitizada será versionada.
 
+## Estado F1
+Plan, data-model, tasks, ADR 001 e planejamento de frontend registrados no PR documental. T005/T006/T008 concluídas como artefatos de planejamento. T007 (protótipo navegável) e T009 (revisão, proteção de branches e ratificação) permanecem abertas. A consulta de branches retornou main/develop desprotegidas. PR #1 em rascunho, sem integração.
+
 ## Próxima etapa
-Revisar F0, formalizar plan/tasks e validar protótipo sem publicar. Gates e proteções de branches precisam de verificação/configuração autorizada; não contornar CI.
+Executar T007 e T009 antes de iniciar F2. Não contornar CI ou promover a main. Conferir exclusões privadas em configuração segura, aprovação de conteúdo e ativos antes da publicação.
