@@ -24,8 +24,8 @@ RF-11: respeitar exclusões explícitas do mantenedor em todas as superfícies (
 RF-10: preservar rotas públicas existentes ou redirecioná-las, mantendo contatos profissionais somente quando confirmados; não ampliar divulgação de informações pessoais.
 
 ## Restrições técnicas e editoriais
-- Backend obrigatório em NestJS + TypeScript sobre Node.js, com módulos de integração GitHub, catálogo, curadoria e validação. Não substituir NestJS por scripts avulsos como arquitetura principal. O NestJS deve permitir execução em modo CLI/batch para gerar snapshot estático e oferecer API REST de leitura quando hospedado em runtime Node autorizado.
-- GitHub Pages hospeda somente o frontend e os artefatos estáticos; não executa o servidor NestJS. O frontend consome o snapshot sanitizado por padrão e pode consumir API NestJS configurada, sem depender de servidor pago. Tokens e exclusões privadas permanecem no ambiente do backend. Hospedagem contínua da API, custos, CORS e operação serão avaliados antes de ativação; nenhum serviço externo contratado automaticamente.
+- Backend obrigatório em NestJS + TypeScript sobre Node.js, com módulos de integração GitHub, catálogo, curadoria e validação. Não substituir NestJS por scripts avulsos como arquitetura principal. Na primeira versão, o NestJS deve executar exclusivamente em modo CLI/batch, por application context, para gerar snapshot estático. API HTTP em execução contínua fica fora do escopo inicial e exige decisão futura.
+- GitHub Pages hospeda somente o frontend e os artefatos estáticos; não executa o servidor NestJS. O frontend consome exclusivamente o snapshot sanitizado na primeira versão, sem depender de servidor permanente ou pago. Tokens e exclusões privadas permanecem no ambiente de execução do NestJS. Nenhuma hospedagem adicional, banco de dados ou API pública será provisionada nesta etapa.
 - Implementar o portfólio em React + TypeScript + Vite, sem Next.js, SSR ou dependências específicas de Next.js.
 - Por preferência explícita do mantenedor, Next.js não será exibido como competência ou tecnologia em destaque, inclusive nos indicadores e filtros de tecnologias. Repositórios históricos que utilizam Next.js não precisam ser excluídos por esse motivo; preservar links e não atribuir stack incorreta. Não alterar o código desses repositórios.
 
@@ -38,10 +38,11 @@ AC5: navegar, buscar e acessar detalhes com teclado e sem WebGL/GSAP; reduced mo
 AC6: build estático funcional com URLs de GitHub Pages; links verificados; medir Lighthouse/Core Web Vitals em ambiente real antes de ratificação.
 AC8: uma exclusão é aplicada antes de ler conteúdo, gerar contagens e publicar; repositório anteriormente público removido ou privatizado deve ser retirado dos dados atuais sem preservar conteúdo revogado como fallback; histórico Git público não pode ser tratado como revogável.
 AC9: o build do portfólio não depende de Next.js; a apresentação de competências não promove essa tecnologia.
-AC10: coletor e normalização executados por serviços NestJS testáveis; geração de snapshot funciona sem servidor HTTP permanente; API de leitura, quando habilitada, fornece apenas dados públicos validados, com testes de contrato, falha, exclusão e ausência de segredos.
+AC10: coletor e normalização executados por serviços NestJS testáveis; geração de snapshot funciona sem servidor HTTP permanente; validar o contrato do snapshot, falhas, exclusões e ausência de segredos; não exigir API HTTP nem servidor ativo para navegação ou atualização do catálogo.
 AC7: aprovar conteúdo, licenças, privacidade e acessibilidade antes de promoção; deploy não incluído na autorização de planejamento.
 
 ## Exclusões
+Servidor HTTP NestJS em execução contínua, API pública própria, banco de dados e hospedagem adicional na versão inicial. A evolução para API REST depende de nova aprovação.
 Backend privilegiado, coleta privada para publicação, cópia literal da Apple, métricas inventadas, chat/analytics/formulários de contato por padrão, publicação automática irrestrita e importação de dados pessoais.
 
 ## Decisões pendentes
